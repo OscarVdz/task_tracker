@@ -21,6 +21,9 @@ You shouldn't need to configure anything, login is all mamp default
 ##Test account
 
 -There is already a test account
+
 User: test
-Passworld: test
+
+
+Password: test
 
